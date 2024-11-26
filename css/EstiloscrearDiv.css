@@ -1,0 +1,20 @@
+
+#boton {
+    background-color: beige;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.borde-negro {
+    font-weight: bold;
+    font-size: 35px;
+    border-radius: 8px;
+    padding: 30px;
+    margin-top: 10px;
+    background-color: #93cee0a1;
+    font-size: 25px;
+    width: 15%;
+} 
